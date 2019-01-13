@@ -1,5 +1,7 @@
 # Dogecoin Private Daemon Installer Script for Ubuntu 18.04 OS
 
+<img src="https://raw.githubusercontent.com/PrivateDOGP/DOGP-Project/master/github-ubuntu.jpg">
+
 The following script will automate the install of the Dogecoin Private Daemon.
 
 Clone this repository with ```https://github.com/PrivateDOGP/DOGP-Daemon-Installer-Script.git```.
