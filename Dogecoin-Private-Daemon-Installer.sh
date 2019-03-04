@@ -32,7 +32,7 @@ apt-get -qq install zip curl \
         software-properties-common \
         libdb4.8-dev libdb4.8++-dev \
         libminiupnpc-dev libzmq3-dev \
-        libssl1.0-dev libgmp3-dev
+        libgmp3-dev
 
 # Clone the Dogecoin Private Core repository and compile
 git clone https://github.com/PrivateDOGP/DOGP-Project.git
